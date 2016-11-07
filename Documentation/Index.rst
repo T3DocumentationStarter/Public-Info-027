@@ -38,7 +38,7 @@ My Public Info Project
 
 .. _Martin: martin.bless@mbless.de
 
-Hallo,
+Hallo Jo,
 
 Martin_ hier. Worum geht's?
 
