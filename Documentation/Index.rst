@@ -1,5 +1,3 @@
-
-:Writing here:    Jo Hasenau
 .. Tip - just do it:
       don't use TABs (= \t, tabulators)
       replace each TAB by *three blanks* (enable RegExp for Search and Replace in your IDE)
